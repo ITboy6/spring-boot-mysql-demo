@@ -1,0 +1,9 @@
+language: java-maven
+buildpath: target/
+ports:
+ -port: 8080
+ -port: 5000
+  protocol: http
+envs:
+ -TEST_ENV: true
+ -ENV2: OK
