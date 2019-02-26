@@ -6,5 +6,5 @@ ports:
  - port: 5000
    protocol: http
 envs:
- - TEST_ENV: true
- - ENV2: OK
+ TEST_ENV: true
+ ENV2: OK
