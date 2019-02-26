@@ -1,4 +1,4 @@
-language: java-maven
+language: Java-maven
 buildpath: target/
 ports:
  - port: 8080
